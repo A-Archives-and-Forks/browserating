@@ -6,6 +6,9 @@ import React from 'react';
 export const metadata = {
   title: 'Privacy Policy - BrowseRating',
   description: 'Learn about how BrowseRating collects, uses, and protects your information.',
+  alternates: {
+    canonical: 'https://browserating.com/privacy',
+  },
 };
 
 export default function PrivacyPage() {
